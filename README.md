@@ -1,3 +1,5 @@
+This is based off [the wonderful article/series](https://blog.adamfurmanek.pl/2016/04/30/custom-memory-allocation-in-c-part-2/) by [@furmanekadam](https://twitter.com/furmanekadam) that explores using unsafe code to allocate memory.  This repository features x64 version of this code.  Do NOT try to run this on x86!
+
 [Benchmark.NET Version Here](https://github.com/Mike-EEE/BenchmarkDotNet.UnsafeListx64)
 
 ```
